@@ -3,7 +3,7 @@
 - 🌱 I know Html5, Css3, Javascript, Php and MySql
 - 📫 Reach me by contact@lucaconstantin.com
 - 💼 Portfolio website: https://lucaconstantin.com/
-- 📚 Soem of my skills:
+- 📚 Some of my skills:
       - Communicate effectively with others
       - Strong memory.
       - Good attention to details.
