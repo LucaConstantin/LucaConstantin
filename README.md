@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @LucaConstantin
+- 📖 I have been a full-stack developer for almost 2 years
+- 🌱 I know Html5, Css3, Javascript, Php and MySql
+- 📫 Reach me by contact@lucaconstantin.com
+- 💼 Portfolio website: https://lucaconstantin.com/
+- 📚 My skills:
+      - Communicate effectively with others
+      - Able to easily grasp concepts.
+      - Strong memory.
+      - Capable to design and run new projects.
+      - Good attention to details.
+      - Ability to identify and solve programming issues.
+      - Able to work under stress.
+      - Capability to maintain punctuality.
+      - Extremely hard working, professional and confident.
+      - Capacity to work with other team member and management.     
