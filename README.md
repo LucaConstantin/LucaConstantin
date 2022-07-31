@@ -4,7 +4,7 @@
 - 📫 Reach me by contact@lucaconstantin.com
 - 💼 Portfolio website: https://lucaconstantin.com/
 - 📚 Some of my skills:
-      - Communicate effectively with others
-      - Strong memory.
-      - Good attention to details.
-      - Ability to identify and solve programming issues.   
+
+      - Communicate effectively with others,
+      - Strong memory,
+      - Good attention to details,
