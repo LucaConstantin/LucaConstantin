@@ -50,7 +50,6 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaConstantin&show_icons=true&theme=react)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=LucaConstantin&theme=react)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaConstantin&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)    <br><br><br>
   [![](https://visitcount.itsvg.in/api?id=LucaConstantin&icon=2&color=1)](https://visitcount.itsvg.in)
   
 </div>
