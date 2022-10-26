@@ -48,14 +48,7 @@
 <div display="flex" align="center">
   <h2>My Profile Statistics</h2>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaConstantin&show_icons=true&theme=react)
-  
-</div>
-
-<div display="flex" align="center">
-  <h2>My Contributions</h2>
-
-  ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LucaConstantin&theme=react-dark) <br><br><br>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaConstantin&show_icons=true&theme=react)<br><br><br>
   [![](https://visitcount.itsvg.in/api?id=LucaConstantin&icon=2&color=1)](https://visitcount.itsvg.in)
   
 </div>
