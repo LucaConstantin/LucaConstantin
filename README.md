@@ -12,7 +12,9 @@
 </h3>
 
 <p align="center">
-  [<img src="https://tenor.com/bqrUA.gif" />](https://tenor.com/bqrUA.gif)
+  
+  ![gif](<img src="https://tenor.com/bqrUA.gif" />](https://tenor.com/bqrUA.gif)
+  
 </p>
 
 <h2 align="center">
