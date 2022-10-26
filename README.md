@@ -6,9 +6,6 @@
 
 <h3 align="center">
   👋 FullStack developer for almost 3 years based in Romania.<br>
-  📫 Reach me by contact@lucaconstantin.com<br>
-  💼 Portfolio website: https://lucaconstantin.com/
-
 </h3>
 
 <p align="center">
