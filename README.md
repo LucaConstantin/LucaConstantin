@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-  👋 FullStack developer with almost 3 years experience<br>
+  FullStack developer with almost 3 years experience<br>
 </h3>
 
 <p align="center">
