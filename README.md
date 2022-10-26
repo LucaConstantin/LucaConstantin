@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-  Full Stack developer with almost 3 years experience<br>
+  Full Stack developer with almost 3 years experience<br><br><br><br>
 </h3>
 
 
