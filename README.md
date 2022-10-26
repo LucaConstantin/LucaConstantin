@@ -58,7 +58,7 @@
 <div display="flex" align="center">
   <h2>My Contributions</h2>
 
-  ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LucaConstantin&theme=react-dark) <br>
+  ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LucaConstantin&theme=react-dark) <br><br><br>
   [![](https://visitcount.itsvg.in/api?id=LucaConstantin&icon=2&color=1)](https://visitcount.itsvg.in)
   
 </div>
