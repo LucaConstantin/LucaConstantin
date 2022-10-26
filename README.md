@@ -5,7 +5,8 @@
 </div>
 
 <h3 align="center">
-  Full Stack developer with almost 3 years experience<br><br><br>
+  I am a full stack developer for almost 3 years. I have gained a lot of experience over the years and I can guarantee that I will surprise you with my skills and knowledge.
+  <br><br><br>
 </h3>
 
 
