@@ -8,11 +8,6 @@
   Full Stack developer with almost 3 years experience<br>
 </h3>
 
-<p align="center">
-
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
-  
-</p>
 
 <h2 align="center">
   Check Out My Tech Stack!
