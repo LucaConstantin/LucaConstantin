@@ -12,8 +12,8 @@
 </h3>
 
 <p align="center">
-  
-  ![gif](<img src="https://tenor.com/bqrUA.gif" />](https://tenor.com/bqrUA.gif)
+
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
   
 </p>
 
