@@ -4,23 +4,19 @@ I am a full stack developer for almost 3 years. I have gained a lot of experienc
 If you have an application you are interested in developing or a problem that needs solving feel free to get in touch.
 ### <samp> Find me on: </samp> 
 
-  
-[![test](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:contact@lucaconstantin.com)
 [![test](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constantin-luca/)
-[![test](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lucaconstantin.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078419976750)<br>
 [![test](https://visitcount.itsvg.in/api?id=LucaConstantin&icon=2&color=1)](https://visitcount.itsvg.in)
 
 
 <br />
 
-## Github Stats
+## Shoot me an email 💌
 
-  ![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaConstantin&show_icons=true&theme=react)
-  ![Luca's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=LucaConstantin&theme=react)<br><br><br>
+For any type of online project please don't hesitate to get in touch with me. The fastest way is to send me your message using the following email:
+contact@lucaconstantin.com
 
-
-
-### <samp>My tech Stack!</samp> :muscle:
+### <samp>My Tech Stack</samp> :muscle:
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,4 +27,10 @@ If you have an application you are interested in developing or a problem that ne
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<br>
+
+## Github Stats 📊
+
+  ![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaConstantin&show_icons=true&theme=react)
+  ![Luca's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=LucaConstantin&theme=react)
+
