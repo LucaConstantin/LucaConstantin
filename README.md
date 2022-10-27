@@ -4,6 +4,9 @@ I am a full stack developer for almost 3 years. I have gained a lot of experienc
 If you have an application you are interested in developing or a problem that needs solving feel free to get in touch.
 ### <samp> Find me on: </samp> 
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constantin-luca/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078419976750)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/LucaConstantin/) <br>
 [![visitors](https://visitcount.itsvg.in/api?id=LucaConstantin&icon=2&color=1)](https://visitcount.itsvg.in)
 
 
