@@ -13,14 +13,14 @@ If you have an application you are interested in developing or a problem that ne
 
 <br />
 
-## Shoot me an email 💌
+# Shoot me an email 💌
 
 For any type of online project please don't hesitate to get in touch with me. The fastest way is to send me your message using the following email:
 contact@lucaconstantin.com
 
 <br />
 
-## My Tech Stack 💪
+# My Tech Stack 💪
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,13 +36,13 @@ contact@lucaconstantin.com
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<br>
 <br />
-## Learning 🌱
+# Learning 🌱
 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br>
 
 <br />
 
-## Github Stats 📊
+# Github Stats 📊
 
   ![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaConstantin&show_icons=true&theme=react)
   ![Luca's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=LucaConstantin&theme=react)
