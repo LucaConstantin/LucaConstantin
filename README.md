@@ -44,6 +44,6 @@ contact@lucaconstantin.com
 
 # Github Stats 📊
 
-<!--   ![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaConstantin&show_icons=true&theme=react) -->
+  ![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaConstantin&show_icons=true&theme=react)
   ![Luca's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=LucaConstantin&theme=react)
 
