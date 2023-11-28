@@ -1,5 +1,5 @@
 ### Hello 👋, I am <a href = https://lucaconstantin.com//>Constantin Luca </a>
-Full-stack web developer with over 4 years of experience. I am a quick learner and work passionately on every project, strictly adhering to deadlines. Over the years, I have gained extensive experience by successfully developing over 100 custom projects for clients from various industries. I communicate effectively with others, allowing me to work with members of different teams. I can guarantee that I will surprise you with my skills and knowledge.
+I am constantly learning and work passionately on every project, strictly meeting deadlines. Throughout my career, I have implemented numerous projects, adapting to the diverse needs of clients from multiple industries. Nothing motivates me more than a satisfied customer and a successful project. I can guarantee that I will surprise you with my skills and knowledge!
 
 If you have an application you are interested in developing or a problem that needs solving feel free to get in touch.
 ### <samp> Find me on: </samp> 
